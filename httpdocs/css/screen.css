@@ -1,0 +1,6 @@
+.box {
+	width:250px; max-height:144px; display:block; overflow: hidden;
+}
+.box img {
+	width:20%; height:auto; float: left;
+}
